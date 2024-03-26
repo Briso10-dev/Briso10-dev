@@ -54,10 +54,15 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-  		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	
+	<a href="https://linkedin.com/in/brice-kouam-5113b8262" rel="nofollow">
+	 	<img alt="Briso10-dev's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
+	</a>
+	<a href="https://www.instagram.com/briso_dev/" rel="nofollow">
+  		<img alt="Briso10-dev's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" style="max-width: 100%;">
+	</a>
+	<a href="https://fb.com/brice.kouam.71" rel="nofollow">
+  		<img alt="Briso10-dev's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" style="max-width: 100%;">
+	</a>
 </div>
 </p>
 
