@@ -1,6 +1,8 @@
-<img align="center" width="650" alt="Binary image" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
-<h1 align="center">Hi 👋, I'm Kouam Brice</h1>
-<h3 align="center">A passionate fullstack developer from Cameroun</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Briso.;A+passionate+of+Computing.;And+specifically+a+fullstack+developer.;And+Cloud+Ingineer.;&center=true&width=500&height=50"></a>
+</p>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briso10-dev&label=Profile%20views&color=0e75b6&style=flat" alt="briso10-dev" /> </p>
@@ -28,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briso10-dev&show_icons=true&locale=en&layout=compact" alt="briso10-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briso10-dev&show_icons=true&locale=en" alt="briso10-dev" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=briso10-dev&show_icons=true&locale=en" alt="briso10-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briso10-dev&" alt="briso10-dev" /></p>
