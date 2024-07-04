@@ -85,5 +85,5 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/Worketyamo-Students/Projet11-Briso">E commerce website</a></i>:<ul><li>Designing an E commerce website for an organisation to help her in purchasing easily her product</li></ul></li>
+	<li><i><a href="https://github.com/Worketyamo-Students/Briso_CRUD_Mongo">E commerce website</a></i>:<ul><li>Designing a company's plateform to easily offer her services</li></ul></li>
 	
