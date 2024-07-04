@@ -78,10 +78,10 @@
 <!-- [![Briso10-dev's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Briso10-dev&custom_title=Briso10-dev's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
 <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brisodev&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Briso10-de}/count.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Briso10-dev}/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
