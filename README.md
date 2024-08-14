@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
 </div>
 
+<br>
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
