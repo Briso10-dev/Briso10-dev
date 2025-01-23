@@ -96,5 +96,5 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/Worketyamo-Students/Briso_CRUD_Mongo">Worketyamo's Plateform</a></i>:<ul><li>Designing a company's plateform to easily offer her services</li></ul></li>
+	<li><i><a>Refactoring all my repositories</a></i>:<ul><li>After 4 months of absences...Wanna get the mindset back and  come up great!</li></ul></li>
 	
