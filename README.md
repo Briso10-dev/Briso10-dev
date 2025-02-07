@@ -9,6 +9,24 @@
 </div>
 </p>
 
+# 👋 I'm SERAPHIN BRICE Kouam
+
+❤️Passionate in Computer Science since childhood...Yes it's not something i just do like that, I like it and give full dedication to it.
+    
+🚀 Experience
+    Designing web applications : Ecommerce,Landing Page,Forms,company's plateform...many many many as you can see...
+    
+🎯 My Goal:
+    
+    
+🌟 Why Connect with Me?:
+    I'm optimistic, committed, and always eager to learn.
+    Ready to tackle new challenges and contribute with a positive attitude.
+
+
+
+---
+
 # 🛠️ Technologies & Tools
 
 <div align="center">
