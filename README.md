@@ -24,9 +24,7 @@
    Ah Ah Ah... I’d say **providing daily satisfaction to my clients and making this field as loved as possible!**  
     
 ---
-### 🖥 ➕ 🧰 Languages,Frameworks and Tools
-## 🚀 Technologies & Tools
-
+### My dev super power tools 🫰
 <table align="center" cellpadding="10"> 
     <!-- First Row: Languages -->
     <tr>
