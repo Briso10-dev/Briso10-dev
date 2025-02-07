@@ -164,15 +164,10 @@
 <p align="center">Connect with me:</p>
 <p>
 <div align="center">
-	<a href="https://linkedin.com/in/brice-kouam-5113b8262" rel="nofollow">
-	 	<img alt="Briso10-dev's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
-	</a> &nbsp &nbsp
-	<a href="https://www.instagram.com/briso_dev/" rel="nofollow">
-  		<img alt="Briso10-dev's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" style="max-width: 100%;">
-	</a> &nbsp &nbsp
-	<a href="https://fb.com/brice.kouam.71" rel="nofollow">
-  		<img alt="Briso10-dev's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" style="max-width: 100%;">
-	</a>
+	<a href="https://www.linkedin.com/in/seraphin-brice-kouam-5113b8262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ir%c3%a8ne-amedji-%f0%9f%87%b9%f0%9f%87%ac-%e2%ad%90%ef%b8%8f-388861243/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/briso_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ireneamedji?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kouam.brice.71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089122070484" height="30" width="40" /></a>
+<a href="https://discord.gg/irène amedji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irène amedji" height="30" width="40" /></a>
 </div>
 </p>
 
@@ -188,7 +183,8 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
   <tr style="padding: 0">
-      <td valign="top" colspan="2" align="center"><img align="center" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
+      <td valign="top"><img align="center" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
+      <td><img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"></td>
   </tr>
 </table>
 <!--counter -->
