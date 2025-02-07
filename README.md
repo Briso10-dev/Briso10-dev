@@ -161,7 +161,6 @@
     </tr>
 </table>
 
-<br>
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
@@ -177,6 +176,7 @@
 </div>
 </p>
 
+---
 <!--Statistics -->
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">  My Stats
 <!-- A resume of my stats -->
@@ -195,7 +195,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Briso10-dev}/count.svg"></p>
 
 <!--Current Project -->
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Project
 <ul>			
 	<li><i><a>Refactoring all my repositories</a></i>:<ul><li>After 4 months of absences...Wanna get the mindset back and  come up great!</li></ul></li>
 	
