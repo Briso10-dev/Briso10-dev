@@ -25,90 +25,136 @@
     
 ---
 ### 🖥 ➕ 🧰 Languages,Frameworks and Tools
+## 🚀 Technologies & Tools
 
 <table align="center" cellpadding="10"> 
+    <!-- First Row: Languages -->
     <tr>
         <td align="center" width="96">
-            <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="CSS"/>
             </a>
         </td>
-        <td align="center" width="96">
-            <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
+	 <td align="center" width="96">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
             </a>
         </td>
-        <td align="center" width="96">
-            <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJS"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+       <td align="center" width="96">
+            <a href="https://www.mongodb.com/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
             </a>
         </td>
-        <td align="center" width="96">
-            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+      <td align="center" width="96">
+            <a href="https://expressjs.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
             </a>
         </td>
-        <td align="center" width="96">
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+          <td align="center" width="96">
+            <a href="https://react.dev/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
             </a>
         </td>
-        <td align="center" width="96">
-            <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+        </td>
+       <td align="center" width="96">
+            <a href="https://nodejs.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
             </a>
         </td>
     </tr>
+    <!-- Second Row: Backend -->
     <tr>
-        <td align="center" width="96">
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+          <td align="center" width="96">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo.svg" width="50" height="50" alt="Canva"/>
+            <a href="https://www.typescriptlang.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
             </a>
         </td>
+	<td align="center" width="96">
+            <a href="https://www.java.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+            </a>
+        </td>
+	<td align="center" width="96">
+            <a href="https://nestjs.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS"/>
+            </a>
+        </td>
+	<td align="center" width="96">
+   		 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+        	     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+    		</a>
+	</td>
         <td align="center" width="96">
+    		<a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
+        		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger"/>
+    		</a>
+	</td>
+    </tr>
+    <!-- Third Row: Databases -->
+    <tr>
+	 <td align="center" width="96">
+    	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="TailwindCSS"/>
+    	</a>
+	</td>
+	<td align="center" width="96">
+            <a href="https://www.postgresql.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+            </a>
+        </td>
+	<td align="center" width="96">
+    	   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        	<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
+   	  </a>
+	</td>
+	<td align="center" width="96">
+    	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+    	</a>
+	</td>
+	<td align="center" width="96">
+    <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://devio2024-media.developers.io/image/upload/v1727199919/user-gen-eyecatch/ca7zvx4bfcarrxw3dwue.webp" height="100" alt="Vitest"/>
+    </a>
+</td>
+	 <td align="center" width="96">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
             </a>
         </td>
-        <td align="center" width="96">
+    </tr>
+    <!-- Fourth Row: Databases -->
+    <tr>
+	<td align="center" width="96">
             <a href="https://github.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
             </a>
         </td>
-        <td align="center" width="96">
-            <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
+          <td align="center" width="96">
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
             </a>
         </td>
-    </tr>
-    <tr>
+	 <td align="center" width="96">
+    	<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" height="60" alt="Canva"/>
+    	</a>
+	</td>
         <td align="center" width="96">
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
             </a>
         </td>
+       <td align="center" width="96">
+       <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
+       </a>
+      </td>
     </tr>
 </table>
 
