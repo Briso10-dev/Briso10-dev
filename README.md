@@ -161,15 +161,13 @@
     </tr>
 </table>
 
-<p align="center">Connect with me:</p>
-<p>
 <div align="center">
-	<a href="https://www.linkedin.com/in/seraphin-brice-kouam-5113b8262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ir%c3%a8ne-amedji-%f0%9f%87%b9%f0%9f%87%ac-%e2%ad%90%ef%b8%8f-388861243/" height="30" width="40" /></a>
+<h2 align="center">Connect with me: </h2>
+<a href="https://www.linkedin.com/in/seraphin-brice-kouam-5113b8262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ir%c3%a8ne-amedji-%f0%9f%87%b9%f0%9f%87%ac-%e2%ad%90%ef%b8%8f-388861243/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/briso_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ireneamedji?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kouam.brice.71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089122070484" height="30" width="40" /></a>
 <a href="https://discord.gg/irène amedji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irène amedji" height="30" width="40" /></a>
 </div>
-</p>
 
 ---
 <!--Statistics -->
