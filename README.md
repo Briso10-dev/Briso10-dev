@@ -139,7 +139,7 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
   <tr style="padding: 0">
-      <td valign="top" colspan="2" align="center"><img align="center" height="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
+      <td valign="top" colspan="2" align="center"><img align="center" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
   </tr>
 </table>
 <!--counter -->
