@@ -137,7 +137,9 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
-    <td valign="bottom"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
+  </tr>
+  <tr style="padding: 0">
+      <td valign="top" align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
   </tr>
 </table>
 <!--counter -->
