@@ -24,7 +24,7 @@
    Ah Ah Ah... I’d say **providing daily satisfaction to my clients and making this field as loved as possible!**  
     
 ---
-### My dev super power tools 🫰
+### My super power dev tools 🫰
 <table align="center" cellpadding="10"> 
     <!-- First Row: Languages -->
     <tr>
