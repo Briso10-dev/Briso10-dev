@@ -13,7 +13,8 @@
 # Hey👋 I'm SERAPHIN BRICE Kouam alias Blackstar  
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
-
+   And thus, all of this drives me with a mindset of seeking knowledge!	
+    
 🚀 **Experience:**  
    - **Designing web applications:**  
      E-commerce, Landing Pages, Forms, Company Platforms... many, many more, as you can see!  
