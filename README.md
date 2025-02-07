@@ -6,6 +6,7 @@
 <div align="center" target="_blank">
   <img src="https://img.shields.io/github/followers/Briso10-dev?style=social">
   <img src="https://img.shields.io/badge/Follow-%40Briso_dev-ff69b4?style=social&logo=instagram">
+  <img src="https://img.shields.io/github/stars/Briso10-dev">
 </div>
 </p>
 
@@ -127,23 +128,21 @@
 </div>
 </p>
 
+<!--Statistics -->
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Briso10-dev&theme=radical&hide_border=true">		  
-</p>
-<br>
-
 <!-- [![Briso10-dev's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Briso10-dev&custom_title=Briso10-dev's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
-
-<p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
+<table cellpadding="0" border="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+<!--counter -->
 <p align="center"><img src="https://profile-counter.glitch.me/{Briso10-dev}/count.svg"></p>
 
+<!--Current Project -->
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
 	<li><i><a>Refactoring all my repositories</a></i>:<ul><li>After 4 months of absences...Wanna get the mindset back and  come up great!</li></ul></li>
