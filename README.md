@@ -10,7 +10,7 @@
 </div>
 </p>
 
-# 👋 I'm SERAPHIN BRICE Kouam  
+# Hey👋 I'm SERAPHIN BRICE Kouam alias Blackstar  
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
 
