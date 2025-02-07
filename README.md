@@ -107,6 +107,11 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
             </a>
         </td>
+	 <td align="center" width="96">
+       <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
+       </a>
+      </td>
 	<td align="center" width="96">
     	   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
         	<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
@@ -121,15 +126,15 @@
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://devio2024-media.developers.io/image/upload/v1727199919/user-gen-eyecatch/ca7zvx4bfcarrxw3dwue.webp" height="70" alt="Vitest"/>
     </a>
-</td>
+</td>		 
+    </tr>
+    <!-- Fourth Row: Databases -->
+    <tr>
 	 <td align="center" width="96">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
             </a>
         </td>
-    </tr>
-    <!-- Fourth Row: Databases -->
-    <tr>
 	<td align="center" width="96">
             <a href="https://github.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
@@ -145,16 +150,16 @@
         <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" height="60" alt="Canva"/>
     	</a>
 	</td>
+	<td align="center" width="96">
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+            </a>
+        </td>
         <td align="center" width="96">
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
             </a>
         </td>
-       <td align="center" width="96">
-       <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
-       </a>
-      </td>
     </tr>
 </table>
 
