@@ -130,7 +130,7 @@
 
 <!--Statistics -->
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-<!-- [![Briso10-dev's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Briso10-dev&custom_title=Briso10-dev's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
+<!-- A resume of my stats -->
 <table cellpadding="0" border="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -139,7 +139,7 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
   <tr style="padding: 0">
-      <td valign="top" align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
+      <td valign="top" colspan="2" align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8" /></td>
   </tr>
 </table>
 <!--counter -->
