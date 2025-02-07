@@ -119,7 +119,7 @@
 	</td>
 	<td align="center" width="96">
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://devio2024-media.developers.io/image/upload/v1727199919/user-gen-eyecatch/ca7zvx4bfcarrxw3dwue.webp" height="100" alt="Vitest"/>
+        <img src="https://devio2024-media.developers.io/image/upload/v1727199919/user-gen-eyecatch/ca7zvx4bfcarrxw3dwue.webp" height="70" alt="Vitest"/>
     </a>
 </td>
 	 <td align="center" width="96">
