@@ -161,7 +161,7 @@
     </tr>
 </table>
 
-<p align="center">Contact me:</p>
+<p align="center">Connect with me:</p>
 <p>
 <div align="center">
 	<a href="https://linkedin.com/in/brice-kouam-5113b8262" rel="nofollow">
