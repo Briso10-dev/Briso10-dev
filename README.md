@@ -9,22 +9,19 @@
 </div>
 </p>
 
-# 👋 I'm SERAPHIN BRICE Kouam
+# 👋 I'm SERAPHIN BRICE Kouam  
 
-❤️Passionate in Computer Science since childhood...Yes it's not something i just do like that, I like it and give full dedication to it.
-    
-🚀 Experience
-    Designing web applications : Ecommerce,Landing Page,Forms,company's plateform...many many many as you can see...
-    
-🎯 My Goal:
-    
-    
-🌟 Why Connect with Me?:
-    I'm optimistic, committed, and always eager to learn.
-    Ready to tackle new challenges and contribute with a positive attitude.
+❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
 
+🚀 **Experience:**  
+   - **Designing web applications:**  
+     E-commerce, Landing Pages, Forms, Company Platforms... many, many more, as you can see!  
+   - **Bringing every project to the Cloud (AWS):**  
+     Deployment, Scalability, High Performance, Fast Access, and Zero Downtime... Yes, all this with the power of the cloud!  
 
-
+🎯 **My Goal:**  
+   Ah Ah Ah... I’d say **providing daily satisfaction to my clients and making this field as loved as possible!**  
+    
 ---
 
 # 🛠️ Technologies & Tools
