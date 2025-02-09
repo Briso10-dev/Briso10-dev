@@ -10,7 +10,7 @@
 </div>
 </p>
 
-# Hey👋 I'm SERAPHIN BRICE Kouam alias Blackstar  
+# Hey👋 I'm Seraphin Brice Kouam alias Briso
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
    And thus, all of this drives me with a mindset of seeking knowledge!	
