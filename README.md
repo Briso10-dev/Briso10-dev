@@ -15,13 +15,13 @@
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
    And thus, all of this drives me with a mindset of seeking knowledge!	
     
-🚀 **Experience:**  
+### 🚀 Experience:
    - **Designing web applications:**  
      E-commerce, Landing Pages, Forms, Company Platforms... many, many more, as you can see!  
    - **Bringing every project to the Cloud (AWS):**  
      Deployment, Scalability, High Performance, Fast Access, and Zero Downtime... Yes, all this with the power of the cloud!  
 
-🎯 **My Goal:**  
+### 🎯 My Goal: 
    Ah Ah Ah... I’d say **providing daily satisfaction to my clients and making this field as loved as possible!**  
     
 ---
