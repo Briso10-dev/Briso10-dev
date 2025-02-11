@@ -177,6 +177,7 @@
 <table cellpadding="0" border="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Briso10-dev" />
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
