@@ -1,7 +1,7 @@
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HELLO+WORLD!+🌍;Glad+to+see+you+on+my+profile.;Just+check+out+my+projects.🤌;and+feel+free+to+connect!!!+😉;&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There,+Me+is+Briso!;Glad+to+see+you.;Just+check+out+my+projects😉" alt="Intro" /> 
 </p>
 
 <p>
@@ -12,7 +12,7 @@
 </div>
 </p>
 
-# Hey👋 I'm Seraphin Brice Kouam alias Briso
+# Hey👋 I'm Seraphin Brice Kouam
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
    And thus, all of this drives me with a mindset of seeking knowledge!	
