@@ -24,7 +24,7 @@
      Deployment, Scalability, High Performance, Fast Access, and Zero Downtime... Yes, all this with the power of the cloud!  
 
 ### 🎯 My Goal: 
-   Ah Ah Ah... I’d say **providing daily satisfaction to my clients and making this field as loved as possible!**  
+   Je dirais que... **providing daily satisfaction to my clients and making this field as loved as possible!**  
     
 ---
 ## My dev tools 🫰
