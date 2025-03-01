@@ -180,7 +180,7 @@
   <!-- First Row: GIF spanning full width -->
   <tr>
     <td colspan="2" align="center">
-      <img alt="Coding" width="850" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif">
+      <img alt="Coding" width="825" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif">
     </td>
   </tr>
   <!-- Second Row: GitHub Stats & Top Languages sharing the row equally -->
