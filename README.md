@@ -180,23 +180,23 @@
   <!-- First Row: GIF spanning full width -->
   <tr>
     <td colspan="2" align="center">
-      <img alt="Coding" width="980" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif">
+      <img alt="Coding" width="500" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif">
     </td>
   </tr>
   <!-- Second Row: GitHub Stats & Top Languages sharing the row equally -->
   <tr>
     <td width="50%" align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
+      <img width="250" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
     </td>
     <td width="50%" align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+      <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
     </td>
   </tr>
 
   <!-- Third Row: Productivity Card centered -->
   <tr>
     <td colspan="2" align="center">
-      <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8"/>
+      <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8"/>
     </td>
   </tr>
 </table>
