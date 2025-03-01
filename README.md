@@ -192,13 +192,6 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
     </td>
   </tr>
-
-  <!-- Third Row: Productivity Card centered -->
-  <tr>
-    <td colspan="2" align="center">
-      <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Briso10-dev&theme=2077&utcOffset=8"/>
-    </td>
-  </tr>
 </table>
 <!--counter -->
 <p align="center"><img src="https://profile-counter.glitch.me/{Briso10-dev}/count.svg"></p>
