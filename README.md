@@ -15,7 +15,7 @@
 # Hey👋 I'm Seraphin Brice Kouam
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
-   And thus, all of this drives me with a mindset of seeking knowledge!	
+   And thus, all of this drives me with a seeking knowledge mindset!	
     
 ### 🚀 Experience:
    - **Designing web applications:**  
