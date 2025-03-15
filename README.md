@@ -79,11 +79,10 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
             </a>
         </td>
-	<td align="center" width="96">
-            <a href="https://nestjs.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS"/>
-            </a>
-        </td>
+       <td align="center" width="90">
+      	<img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
+     	 <br>Nest.js
+       </td>
 	<td align="center" width="96">
    		 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
         	     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
