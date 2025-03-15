@@ -51,10 +51,9 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
             </a>
         </td>
-          <td align="center" width="96">
-            <a href="https://react.dev/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-            </a>
+        <td align="center" width="90">
+      	  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+         <br>React
         </td>
         </td>
        <td align="center" width="96">
