@@ -109,11 +109,10 @@
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
        </a>
       </td>
-	<td align="center" width="96">
-    	   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        	<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
-   	  </a>
-	</td>
+	<td align="center" width="90">
+     	 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      	   <br>AWS
+    	</td>
 	<td align="center" width="96">
     	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
