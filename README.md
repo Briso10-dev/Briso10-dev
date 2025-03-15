@@ -64,11 +64,10 @@
     </tr>
     <!-- Second Row: Backend -->
     <tr>
-          <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-            </a>
-        </td>
+          <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="javascript.js" />
+      <br>javascript
+    </td>
         <td align="center" width="96">
             <a href="https://www.typescriptlang.org/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
