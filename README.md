@@ -12,7 +12,7 @@
 </div>
 </p>
 
-# Hey👋 I'm Seraphin Brice Kouam
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Serphin Brice Kouam</h1>
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
    And thus, all of this drives me with a seeking knowledge mindset!	
