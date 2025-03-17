@@ -52,14 +52,12 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <br>Express
         </td>
         <td align="center" width="90">
-      	  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-         <br>React
+      	    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+            <br>React
         </td>
-        </td>
-       <td align="center" width="96">
-            <a href="https://nodejs.org/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-            </a>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+            <br>Node.js
         </td>
     </tr>
     <!-- Second Row: Backend -->
