@@ -75,18 +75,17 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <br>Java
         </td>
        <td align="center" width="90">
-      	<img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
-     	 <br>Nest.js
+      	    <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
+     	    <br>Nest.js
        </td>
        <td align="center" width="90">
-      	<img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Nest.js" />
-     	 <br>Postman
+      	    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Nest.js" />
+     	    <br>Postman
        </td>
         <td align="center" width="96">
-    		<a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
-        		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger"/>
-    		</a>
-	</td>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger"/>
+    		 <br>Swagger
+	    </td>
     </tr>
     <!-- Third Row: Databases -->
     <tr>
