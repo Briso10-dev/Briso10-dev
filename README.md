@@ -93,10 +93,9 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
       	    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
      	    <br>Tailwind
        </td>  
-	<td align="center" width="96">
-            <a href="https://www.postgresql.org/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-            </a>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        <br>PostgreSQL
         </td>
 	 <td align="center" width="96">
        <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
