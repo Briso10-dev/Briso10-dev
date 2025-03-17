@@ -105,15 +105,14 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
      	    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
       	    <br>AWS
     	</td>
-         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="PostgreSQL" />
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
             <br>Docker
         </td>
-	<td align="center" width="96">
-    <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://devio2024-media.developers.io/image/upload/v1727199919/user-gen-eyecatch/ca7zvx4bfcarrxw3dwue.webp" height="70" alt="Vitest"/>
-    </a>
-</td>		 
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vitest" width="45" height="45" alt="Vitest" />
+            <br>Vitest
+        </td>
     </tr>
     <!-- Fourth Row: Databases -->
     <tr>
