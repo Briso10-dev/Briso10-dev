@@ -62,18 +62,17 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
     </tr>
     <!-- Second Row: Backend -->
     <tr>
-          <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="javascript.js" />
-      <br>javascript
-    </td>
         <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-	<td align="center" width="96">
-            <a href="https://www.java.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-            </a>
+            <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="javascript.js" />
+            <br>javascript
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+            <br>Typescript
+        </td>
+	   <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+            <br>Java
         </td>
        <td align="center" width="90">
       	<img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
