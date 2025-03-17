@@ -116,11 +116,10 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
     </tr>
     <!-- Fourth Row: Databases -->
     <tr>
-	 <td align="center" width="96">
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-            </a>
-        </td>
+      <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+            <br>Git
+      </td>
 	<td align="center" width="96">
             <a href="https://github.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
