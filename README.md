@@ -15,19 +15,23 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Serphin Brice Kouam</h1>
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
-   And thus, all of this drives me with a seeking knowledge mindset!	
-    
-### 🚀 Experience:
-   - **Designing web applications:**  
-     E-commerce, Landing Pages, Forms, Company Platforms... many, many more, as you can see!  
-   - **Bringing every project to the Cloud (AWS):**  
-     Deployment, Scalability, High Performance, Fast Access, and Zero Downtime... Yes, all this with the power of the cloud!  
+ And thus, all of this drives me with a seeking knowledge mindset!
 
-### 🎯 My Goal: 
-   Je dirais que... **providing daily satisfaction to my clients and making this field as loved as possible!**  
-    
+### 🚀 Experience:
+
+- **Designing web applications:**  
+  E-commerce, Landing Pages, Forms, Company Platforms... many, many more, as you can see!
+- **Bringing every project to the Cloud (AWS):**  
+  Deployment, Scalability, High Performance, Fast Access, and Zero Downtime... Yes, all this with the power of the cloud!
+
+### 🎯 My Goal:
+
+Je dirais que... **providing daily satisfaction to my clients and making this field as loved as possible!**
+
 ---
+
 ## My dev tools 🫰
+
 <table align="center" cellpadding="10"> 
     <!-- First Row: Languages -->
     <tr>
@@ -168,8 +172,11 @@
 </div>
 
 ---
+
 <!--Statistics -->
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">  My Stats
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> My Stats
+
 <!-- A resume of my stats -->
 <table cellpadding="0" border="0" width="100%">
   <!-- First Row: GIF spanning full width -->
@@ -192,7 +199,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Briso10-dev}/count.svg"></p>
 
 <!--Current Project -->
+
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Project
+
 <ul>			
 	<li><i><a>Refactoring all my repositories</a></i>:<ul><li>After 4 months of absences...Wanna get the mindset back and  come up great!</li></ul></li>
-	
