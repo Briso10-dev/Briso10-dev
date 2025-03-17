@@ -43,10 +43,9 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
             <br>CSS
         </td>
-       <td align="center" width="96">
-            <a href="https://www.mongodb.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-            </a>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <br>MongoDB
         </td>
       <td align="center" width="96">
             <a href="https://expressjs.com/" target="_blank">
