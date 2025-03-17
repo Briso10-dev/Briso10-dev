@@ -129,12 +129,12 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <br>Github
       </td>
       <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Figma" />
-            <br>Vs code
+            <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+            <br>Figma
         </td>
       <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=canva" width="45" height="45" alt="PostgreSQL" />
-            <br>Git
+            <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="PostgreSQL" />
+            <br>Vs code
       </td>
        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Vitest" />
