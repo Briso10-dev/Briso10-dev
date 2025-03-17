@@ -97,11 +97,10 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
         <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
         <br>PostgreSQL
         </td>
-	 <td align="center" width="96">
-       <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
-       </a>
-      </td>
+	    <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
+            <br>Oracle
+        </td>
 	<td align="center" width="90">
      	 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
       	   <br>AWS
