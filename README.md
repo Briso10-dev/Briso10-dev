@@ -70,10 +70,14 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
             <br>Typescript
         </td>
+        <td align="center" width="90">
+      	    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+     	    <br>Tailwind
+       </td>  
 	   <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-            <br>Java
-        </td>
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+            <br>RestAPI
+       </td>
        <td align="center" width="90">
       	    <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
      	    <br>Nest.js
@@ -82,20 +86,20 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
       	    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
      	    <br>Postman
        </td>
-        <td align="center" width="96">
-    		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger"/>
-    		 <br>Swagger
-	    </td>
     </tr>
     <!-- Third Row: Databases -->
     <tr>
+      <td align="center" width="96">
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger"/>
+    		 <br>Swagger
+	  </td> 
       <td align="center" width="90">
-      	    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-     	    <br>Tailwind
-       </td>  
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-        <br>PostgreSQL
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+        <br>Java
+       </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="Postgresql" />
+            <br>Postgresql
         </td>
 	    <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
@@ -109,30 +113,29 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
             <br>Docker
         </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vitest" width="45" height="45" alt="Vitest" />
-            <br>Vitest
-        </td>
     </tr>
     <!-- Fourth Row: Databases -->
     <tr>
+       <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vitest" width="45" height="45" alt="Vitest" />
+            <br>Vitest
+        </td>
       <td align="center" width="90">
            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
            <br>Git
       </td>
       <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="PostgreSQL" />
+            <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Github" />
             <br>Github
       </td>
       <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="PostgreSQL" />
+            <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
             <br>Figma
         </td>
-	 <td align="center" width="96">
-    	<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" height="60" alt="Canva"/>
-    	</a>
-	</td>
+      <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=canva" width="45" height="45" alt="PostgreSQL" />
+            <br>Git
+      </td>
 	<td align="center" width="96">
             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
