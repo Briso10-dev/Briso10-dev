@@ -117,14 +117,13 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
     <!-- Fourth Row: Databases -->
     <tr>
       <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-            <br>Git
+           <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+           <br>Git
       </td>
-	<td align="center" width="96">
-            <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-            </a>
-        </td>
+      <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="PostgreSQL" />
+            <br>Github
+      </td>
           <td align="center" width="96">
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
