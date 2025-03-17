@@ -35,10 +35,9 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
 <table align="center" cellpadding="10"> 
     <!-- First Row: Languages -->
     <tr>
-        <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="CSS"/>
-            </a>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+            <br>HTML
         </td>
 	 <td align="center" width="96">
             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
