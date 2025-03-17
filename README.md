@@ -136,15 +136,9 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
             <img src="https://skillicons.dev/icons?i=canva" width="45" height="45" alt="PostgreSQL" />
             <br>Git
       </td>
-	<td align="center" width="96">
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-            </a>
+       <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Vitest" />
+            <br>Linux
         </td>
     </tr>
 </table>
