@@ -171,7 +171,7 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
       <img width="400" src="https://github-readme-stats.vercel.app/api?username=Briso10-dev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
     </td>
     <td width="50%" align="center">
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&count_private=true&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html,css,plsql&custom_title=Top%20Languages" alt="briso :: Top Langs" />
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briso10-dev&count_private=true&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html,css,plsql,ejs&custom_title=Top%20Languages" alt="briso :: Top Langs" />
     </td>
   </tr>
 </table>
