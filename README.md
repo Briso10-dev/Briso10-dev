@@ -187,5 +187,5 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
 
 <div align="center">
     <img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif" />
-  <h3>Merci d'avoir visité mon profil 🚀 !</h3>
+  <h3>Was a great pleasure to have you here on my profile ! 🚀</h3>
 </div>
