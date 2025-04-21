@@ -180,8 +180,8 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
 
 <!--Current Project -->
 
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Project			
-<li><i><a>Refactoring all my repositories</a></i>:<ul><li>After 4 months of absences...Wanna get the mindset back and  come up great!</li></ul></li>
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Activity			
+<li><i><a>Empowering my front end skills</a></i>:<ul><li>Wanna have a greather knowledge and more expertise in Designing-implementing web pages!</li></ul></li>
 
 --- 
 
