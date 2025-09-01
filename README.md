@@ -181,7 +181,7 @@ Je dirais que... **providing daily satisfaction to my clients and making this fi
 <!--Current Project -->
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Activity			
-<li><i><a>Empowering my front end skills</a></i>:<ul><li>Wanna have a greather knowledge and more expertise in Designing-implementing web pages!</li></ul></li>
+<li><i><a>Empowering my front end skills</a></i>:<ul><li>Depening my knowledge and expertise in designing-implementing web pages!</li></ul></li>
 
 --- 
 
